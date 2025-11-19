@@ -79,8 +79,10 @@
 | :---------------- |
 
 <div align="center">
-  <a href="https://narratium-ai-rust.vercel.app/">🧪 开源版本预览</a>
+  <a href="https://narratium-ai-rust.vercel.app">官方服务（注册即可免费使用）</a> &nbsp;|&nbsp;
+  <a href="https://narratium-ai-woad.vercel.app/">🧪 开源版本预览</a>
 </div>
+
 
 | 版本说明 |
 | :---------------- |

@@ -34,7 +34,7 @@
 </p>
 
 <div align="center">
-  <a href="https://narratium.org">🔗 Live Demo</a> &nbsp;|&nbsp;
+  <a href="https://narratium-ai-rust.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
   <a href="https://deepwiki.com/Narratium/Narratium.ai/">📖 DeepWiki Docs</a> &nbsp;|&nbsp;
   <a href="https://github.com/Narratium/Narratium.ai/releases">💾 Download</a> &nbsp;|&nbsp;
   <a href="./README_ZH.md">🇨🇳 中文文档</a>
@@ -80,8 +80,10 @@
 | :---------------- |
 
 <div align="center">
-  <a href="hhttps://narratium-ai-rust.vercel.app/">🧪 Open Source Preview</a>
+  <a href="https://narratium-ai-rust.vercel.app">Official Service (Free registration required)</a> &nbsp;|&nbsp;
+  <a href="https://narratium-ai-woad.vercel.app/">🧪 Open Source Preview</a>
 </div>
+
 
 | Version Information |
 | :---------------- |
